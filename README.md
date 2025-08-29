@@ -1,4 +1,4 @@
-# Dashboard Interativo de Análise de Salários na Área de Dados
+# 📊Dashboard Interativo de Análise de Salários na Área de Dados
 
 Este projeto tem como **objetivo final** a criação de um **dashboard interativo com *Streamlit*** para análise de salários de profissionais da área de dados.  
 Foi utilizada uma **fonte de dados do Kaggle**, que traz informações reais sobre diferentes **cargos, senioridades, tipos de contrato e países**, permitindo construir um cenário de visualização do mercado.
@@ -21,7 +21,7 @@ Execute o aplicativo:
  ```bash
 streamlit run app.py
    ```
-## Estrutura do Projeto
+## Como o projeto está estruturado
 
 - **app.py** → arquivo principal responsável pela execução do dashboard interativo  
 - **dados-imersao-final.csv** → conjunto de dados utilizado para a análise de salários  
